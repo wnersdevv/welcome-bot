@@ -7,7 +7,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18.17-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Only-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![No Dashboard](https://img.shields.io/badge/Dashboard-YOK-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 **Sıfırdan yazılmış • `.env` yok • Web panel yok • Sahte özellik yok**
@@ -63,8 +62,8 @@
 <td width="50%" valign="top">
 
 ### 🧠 Çekirdek Mimari
-- ✅ %100 JavaScript, TypeScript **yok**
-- ✅ `ayarlar.json` tabanlı config, `.env` **yok**
+- ✅ %100 JavaScript
+- ✅ `ayarlar.json` tabanlı config, `.env`
 - ✅ Gerçek Discord **Components V2** API'si
 - ✅ Guild-bazlı, tamamen bağımsız veri katmanı
 - ✅ Cache + atomic yazım (`data/guilds/<guildId>.json`)
@@ -212,7 +211,6 @@ discord-welcome-bot/
 
 <div align="center">
 
-**Sorun mu var, yeni özellik mi istiyorsun?**
-`logs/error.log` çıktısını paylaş, birlikte çözelim. 🚀
+Power By WnersDev
 
 </div>
