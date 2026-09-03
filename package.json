@@ -1,0 +1,21 @@
+{
+  "name": "discord-welcome-community-center",
+  "version": "1.0.0",
+  "description": "Discord içi tamamen yönetilebilen Welcome & Community Control Center - Components V2 tabanlı",
+  "main": "src/core/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/core/index.js",
+    "dev": "node --watch src/core/index.js",
+    "deploy": "node src/core/deployCommands.js",
+    "test": "node src/core/selfTest.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "@napi-rs/canvas": "^0.1.65"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "token": "BOT_TOKEN_BURAYA",
+  "clientId": "CLIENT_ID_BURAYA",
+  "guildId": "TEST_GUILD_ID_BURAYA",
+  "ownerIds": ["SENIN_DISCORD_ID_IN"],
+  "logLevel": "info",
+  "rateLimit": {
+    "interactionWindowMs": 5000,
+    "maxInteractions": 8
+  }
+}

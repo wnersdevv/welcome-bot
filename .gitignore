@@ -1,0 +1,8 @@
+ayarlar.json
+node_modules/
+logs/
+data/backups/
+data/guilds/*.json
+!data/guilds/.gitkeep
+.DS_Store
+npm-debug.log*
